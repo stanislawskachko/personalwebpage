@@ -313,3 +313,27 @@ ul {
 footer {
     background-color: silver;
 }
+
+
+.project:hover {
+    opacity: 0.7;
+    border-color: silver;
+    border-width: thin;
+}
+
+.study:hover {
+    opacity: 0.7;
+    border-color: silver;
+    border-width: thin;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+}
+
+.flex-container > div {
+  text-align: left;
+  font-size: 1rem;
+}
