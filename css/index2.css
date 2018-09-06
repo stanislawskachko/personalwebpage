@@ -469,3 +469,16 @@ input[type=reset]:hover {
 footer {
     background-color: silver;
 }
+
+
+header .banner2 {
+    height: 340px;
+    background-image: url(../img/karmount.png);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
